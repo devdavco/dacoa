@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @dacoa
-- 👀 I’m interested in learn a lot of thing about the life
-- 🌱 I’m currently learning about FullStack 
-- 💞️ I’m looking to collaborate on ... myself 
-- 📫 How to reach me ...
+ 👀 I’m interested in learn a lot of thing about the life
 
 <!---
 dacoa/dacoa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
